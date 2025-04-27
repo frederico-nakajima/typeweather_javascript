@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-TypeWeather é uma aplicação web para consultar dados meteorológicos e previsão do tempo. Esse projeto é desenvolvido no TypeScript.
+TypeWeather é uma aplicação web para consultar dados meteorológicos e previsão do tempo. Esse projeto é desenvolvido no javascript.
 
 ## 🔖 Layout
 
